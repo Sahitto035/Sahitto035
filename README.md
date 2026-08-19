@@ -3,7 +3,7 @@
 <h3 align="center">A passionate 1st-year Computer Science & Engineering student at BUBT.</h3>
 
 <p align="center">
-  Welcome to my GitHub profile! I am on a 4-year journey to build a strong foundation in Computer Science, solve algorithmic problems, and grow as a software engineer.
+  Welcome to my GitHub profile! I am on a 4-year journey to build a strong foundation in Computer Science, solve algorithmic problems, and grow as a engineer.
 </p>
 
 ---
