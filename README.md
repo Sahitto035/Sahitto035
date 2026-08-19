@@ -12,7 +12,7 @@
 
 - 🏫 **University:** Bangladesh University of Business and Technology (BUBT)
 - 📚 **Degree:** B.Sc. in Computer Science & Engineering (Class of 2029/2030)
-- 🌱 **Currently Learning:** Structured Programming in C, Algorithmic Logic, and Discrete Mathematics
+- 🌱 **Currently Learning:** Structured Programming in C/C++, Algorithmic Logic, and Discrete Mathematics
 - 📂 **My Journey:** Check out my main repository where I document all my university work: [**CSE-Journey**](https://github.com/Sahitto035/CSE-Journey)
 - 💬 **Ask me about:** C programming, competitive programming basics, and starting out in CS!
 
